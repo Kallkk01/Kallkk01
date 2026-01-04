@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @Kallkk01
-- 👀 I’m interested in Cyber Security and Pen-Testing
-- 🌱 I’m currently learning Web application pen-testing
-- 📫 How to reach me : kallyankrishnacsr@gmail.com
+- Cybersecurity Researcher • Defensive Security • Risk & Controls
+- Building educational tools and practical playbooks
+- Contact: kallyankrishnacsr@gmail.com
 
 <!---
 Kallkk01/Kallkk01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
